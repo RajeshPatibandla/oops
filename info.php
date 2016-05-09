@@ -1,4 +1,4 @@
 <?php 
-echo phpinfo();
+echo "welcom to php azure with github";
 
 ?>
